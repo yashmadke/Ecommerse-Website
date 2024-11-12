@@ -1,1 +1,2 @@
 # Ecommerese Website
+Developed a fully functional e-commerce website using the MERN stack (MongoDB, Express.js, React, and Node.js). This project features secure user authentication, a product catalog with search and filter capabilities, and a responsive UI. Integrated PayPal for seamless and secure payment processing, enabling users to make purchases directly through the platform. The project showcases dynamic data management with MongoDB, RESTful API development in Node.js, and efficient state management on the front end.
